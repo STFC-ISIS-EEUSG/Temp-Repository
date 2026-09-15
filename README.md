@@ -1,3 +1,5 @@
+Create using command line
+
 echo "# STFC-ISIS-EEUSG" >> README.md
 git init
 git add README.md
