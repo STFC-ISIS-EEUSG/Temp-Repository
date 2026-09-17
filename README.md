@@ -1,5 +1,8 @@
-Create using command line
+Repository for ISIS EEUSG Small Project Code and Eurotherm Project Clone Files
 
+
+
+Create using command line
 echo "# Temp-Repository" >> README.md
 git init
 git add README.md
